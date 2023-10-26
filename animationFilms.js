@@ -9,6 +9,7 @@ const AnimationFilms = [
   "Toy Story (1995)",
   "Frozen (2013)",
   "Shrek (2001)",
+  "Shrek 2 (2003)",
   "Pesadilla antes de Navidad (1993)",
   "Intensa-mente (Inside Out) (2015)",
   "Los increíbles (2004)",
